@@ -26,3 +26,4 @@ function askBirthYear() {
 }
 
 askBirthYear();
+print("helo");
